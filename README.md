@@ -18,7 +18,7 @@ This will allow for hackers/researchers/bug bounty hunters to find vulnerable s3
 
 It currently has limited domanis, but soon this will also be automated so that we can add the domains that are not on the list dynamically. 
 
-| Domanis       |
+| Domains       |
 | ------------- |
 | uber      | 
 | twitter      | 
