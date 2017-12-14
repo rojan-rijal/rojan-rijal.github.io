@@ -24,6 +24,10 @@ It currently has limited domanis, but soon this will also be automated so that w
 | twitter      | 
 | spotify | 
 | yahoo | 
+| snapchat      | 
+| hackerone | 
+| bugcrowd | 
+| linkedin | 
 
 *Want to help?*
 
