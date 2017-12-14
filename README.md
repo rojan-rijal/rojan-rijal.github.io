@@ -14,6 +14,17 @@ As of December 13, 2017 9:45 PM PST, this scans domains every 24 hrs and brutefr
 
 This will allow for hackers/researchers/bug bounty hunters to find vulnerable s3 bucket. 
 
+*Domains*
+
+It currently has limited domanis, but soon this will also be automated so that we can add the domains that are not on the list dynamically. 
+
+| Domanis       |
+| ------------- |
+| uber      | 
+| twitter      | 
+| spotify | 
+| yahoo | 
+
 *Want to help?*
 
 Sure. Feel free to give ideas regarding how this can be upgraded. I am open to discussion. :) 
