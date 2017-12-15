@@ -7,7 +7,7 @@
   
   <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
 
-      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="css/style.css">
 
   
 </head>
@@ -28,15 +28,7 @@
 <script src='https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js'></script>
 <script src='https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js'></script>
 <br>
-<table>
-    <tr>
-        <th>
-        <center>Buckets</center>
-        </th>
-    </tr>
-    <tr>
-        <td id="buckets"></td>
-    </tr>
+<table id = "data">
 </table>
 
  <script>
@@ -59,12 +51,13 @@
           templates: {
             suggestion: function(suggestion) {
                 i=0;
-                bucket_val="";
+                bucket_val="<tr><th><center>Buckets</center></th><th><center>ACLs</center></th></tr>";
+                acl="";
                 while(i < suggestion._highlightResult.buckets.length){
-                    bucket_val += "<p><center>"+suggestion._highlightResult.buckets[i].value+"</center></p>";
+                    bucket_val += "<tr><td><center>"+suggestion._highlightResult.buckets[i].value+"</center></td><td><center>"+suggestion._highlightResult.acl[i].value+"</center></td></tr>";
                     i++;
                 }
-                document.getElementById("buckets").innerHTML = bucket_val;
+                document.getElementById("data").innerHTML = bucket_val;
             }
           }
         }
@@ -72,8 +65,8 @@
       ]);
       
  </script>
-  
-  <br><p><a href="https://github.com/rojan-rijal/rojan-rijal.github.io">FAQ</a></p>
-  <br><p><center>DB hosted on Algolia </center></p>
+  <center><p>Made with Algolia</p></center>
+  <center><a href="https://github.com/rojan-rijal/rojan-rijal.github.io">FAQ</a></center>
 </body>
+  
 </html>
