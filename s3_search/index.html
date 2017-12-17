@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -53,8 +54,8 @@
                 i=0;
                 bucket_val="<tr><th><center>Buckets</center></th><th><center>ACLs</center></th></tr>";
                 acl="";
-                while(i < suggestion._highlightResult.buckets.length){
-                    bucket_val += "<tr><td><center>"+suggestion._highlightResult.buckets[i].value+"</center></td><td><center>"+suggestion._highlightResult.acl[i].value+"</center></td></tr>";
+                while(i < suggestion.buckets.length){
+                    bucket_val += "<tr><td><center>"+suggestion.buckets[i]+"</center></td><td><center>"+suggestion.acl[i]+"</center></td></tr>";
                     i++;
                 }
                 document.getElementById("data").innerHTML = bucket_val;
