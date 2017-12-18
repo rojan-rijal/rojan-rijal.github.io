@@ -16,18 +16,7 @@ This will allow for hackers/researchers/bug bounty hunters to find vulnerable s3
 
 *Domains*
 
-It currently has limited domanis, but soon this will also be automated so that we can add the domains that are not on the list dynamically. 
-
-| Domains       |
-| ------------- |
-| uber      | 
-| twitter      | 
-| spotify | 
-| yahoo | 
-| snapchat      | 
-| hackerone | 
-| bugcrowd | 
-| linkedin | 
+Currently, it should have all the public programs in h1 searchable by their handle. 
 
 *Want to help?*
 
