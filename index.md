@@ -1,7 +1,4 @@
-# Welcome
-This is a research blog and will contain information on new research findings and new tools. 
-
-# Projects
+# Tools
 
 **Mini**
 Small projects/extensions that might also be integrated to major projects. 
