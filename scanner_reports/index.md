@@ -12,3 +12,6 @@ If you notice any wrong information, feel free to open an issue and I will be mo
 # Companies
 1. <a href="http://tools.bugbounty.site/scanner_reports/Uber.pdf">Uber</a>
 2. <a href="http://tools.bugbounty.site/scanner_reports/Twitter.pdf">Twitter</a>
+3. <a href="http://tools.bugbounty.site/scanner_reports/Bugcrowd.pdf">Bugcrowd</a>
+4. <a href="http://tools.bugbounty.site/scanner_reports/Yahoo.pdf">Yahoo</a>
+5. <a href="http://tools.bugbounty.site/scanner_reports/HackerOne.pdf">HackerOne</a>
