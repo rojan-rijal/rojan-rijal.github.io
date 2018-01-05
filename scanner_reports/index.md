@@ -7,3 +7,8 @@ This is a repository with .pdf reports for companies that I am hunting on. All o
 
 # Updating the list
 If you notice any wrong information, feel free to open an issue and I will be more than happy to take a look into it. 
+
+
+# Companies
+1. <a href="http://tools.bugbounty.site/scanner_reports/Uber.pdf">Uber</a>
+2. <a href="http://tools.bugbounty.site/scanner_reports/Twitter.pdf">Twitter</a>
