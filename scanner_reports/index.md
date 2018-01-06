@@ -25,7 +25,7 @@ In future, following details will be added:
 # Updating the list
 If you notice any wrong information, feel free to open an issue and I will be more than happy to take a look into it. If you want to provide potential domains that can be scanned (must be running a public bug bounty), please email `bugbountysite@gmail.com` and I will respond as soon as possible. 
 
-New features/upgrades/updates on the pdf results can be seen at <a href="http://tools.bugbounty.site/scanner_reports/updates.md">Update section</a>.
+New features/upgrades/updates on the pdf results can be seen at <a href="http://tools.bugbounty.site/scanner_reports/updates">Update section</a>.
 
 
 # Companies
