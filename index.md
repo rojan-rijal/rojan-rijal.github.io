@@ -2,6 +2,7 @@
 
 1. <a href="https://rojan-rijal.github.io/s3_search/">S3 Bucket Search</a>
 2. <a href="https://rojan-rijal.github.io/scanner_reports/">Scanner Reports</a>
+3. <a href="http://scan.bugbounty.site">Vulnerability/Recon Scanner</a>: This tool is currently on Beta release. 
 
 
 
